@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid red; */
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+img,
+video {
+    display: block;
+    margin: 1.25rem auto;
+}
+
+h1,
+p,
+a,
+footer {
+    font-family: 'Verdana';
+}
+
+a {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+h1 {
+    color: white;
+    margin: 2rem;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    padding: 1rem;
+}
+
+header h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+section h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
